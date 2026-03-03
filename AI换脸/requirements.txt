@@ -1,0 +1,5 @@
+moviepy
+gradio>=4.8
+insightface
+flake8
+yapf

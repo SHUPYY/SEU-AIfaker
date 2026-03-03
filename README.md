@@ -1,2 +1,2 @@
-# SEU
+# SEU-AIfaker
 东南大学研究生模式识别
